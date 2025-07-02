@@ -1,2 +1,2 @@
 # Flexbox Layout
-This is a flexbox layout demo page for Frontend Now
+This is a Git version demo page for Frontend Now
